@@ -1,0 +1,3 @@
+
+
+size map --> load data --> initsmap --> inits frame  --> fillUpArraylists --> procedural map --> timer
